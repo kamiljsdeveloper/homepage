@@ -7,3 +7,28 @@ h2 {
 section {
   background-color: #e0dd11;
 }
+
+.czerwony {
+  color: red;
+}
+
+#szkolenie {
+  background-color: aqua;
+}
+
+p {
+  color: blue !important;
+}
+
+a {
+  color: green;
+}
+
+section a {
+  color: orange;
+}
+
+.my-article p {
+  background-color: beige;
+  color: black;
+} 
